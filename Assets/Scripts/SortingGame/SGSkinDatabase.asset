@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6b7f01845ae64574ca3016267608377e, type: 3}
+  m_Name: SGSkinDatabase
+  m_EditorClassIdentifier: 
+  skins:
+  - Price: 0
+    ClosedBoxes:
+    - {fileID: 1181854437, guid: d09ca253090491344bea43ac0086c12a, type: 3}
+    - {fileID: -1757128343, guid: f0118b838a266d24b8234e28235ca843, type: 3}
+    - {fileID: 1132070856, guid: cff21a5345a55ff40b6a508b25bbc60a, type: 3}
+    OpenedBoxes:
+    - {fileID: 42792906, guid: d09ca253090491344bea43ac0086c12a, type: 3}
+    - {fileID: 739408772, guid: f0118b838a266d24b8234e28235ca843, type: 3}
+    - {fileID: 1274096836, guid: cff21a5345a55ff40b6a508b25bbc60a, type: 3}
+    FullBoxes:
+    - {fileID: 584437194, guid: d09ca253090491344bea43ac0086c12a, type: 3}
+    - {fileID: 1965732626, guid: f0118b838a266d24b8234e28235ca843, type: 3}
+    - {fileID: -1751821747, guid: cff21a5345a55ff40b6a508b25bbc60a, type: 3}
+    Fillings0:
+    - {fileID: 1107410184, guid: 6d311d19f6195c340aba271c64932ef5, type: 3}
+    - {fileID: -1554885207, guid: 6d311d19f6195c340aba271c64932ef5, type: 3}
+    - {fileID: -1574215456, guid: 6d311d19f6195c340aba271c64932ef5, type: 3}
+    - {fileID: -634299304, guid: 6d311d19f6195c340aba271c64932ef5, type: 3}
+    Fillings1:
+    - {fileID: -1011540747, guid: e9cd583b4c3635a47a9331eb9006e15e, type: 3}
+    - {fileID: -970331819, guid: e9cd583b4c3635a47a9331eb9006e15e, type: 3}
+    - {fileID: -1063812683, guid: e9cd583b4c3635a47a9331eb9006e15e, type: 3}
+    - {fileID: -499340045, guid: e9cd583b4c3635a47a9331eb9006e15e, type: 3}
+    Fillings2:
+    - {fileID: 621107347, guid: 46ba83fe1a832274eacf58ae7d6552fb, type: 3}
+    - {fileID: 2071801144, guid: 46ba83fe1a832274eacf58ae7d6552fb, type: 3}
+    - {fileID: -185979990, guid: 46ba83fe1a832274eacf58ae7d6552fb, type: 3}
+    - {fileID: 806501899, guid: 46ba83fe1a832274eacf58ae7d6552fb, type: 3}
+  - Price: 10
+    ClosedBoxes:
+    - {fileID: -962733779, guid: 06cabfade30d2d64db20346be2fb6881, type: 3}
+    - {fileID: -571321191, guid: 93e236146048f0d41aeea8e010507f5e, type: 3}
+    - {fileID: 391538502, guid: 7da8416931681f7419198c2f1ab4bbae, type: 3}
+    OpenedBoxes:
+    - {fileID: -962733779, guid: 06cabfade30d2d64db20346be2fb6881, type: 3}
+    - {fileID: -571321191, guid: 93e236146048f0d41aeea8e010507f5e, type: 3}
+    - {fileID: -202213728, guid: 7da8416931681f7419198c2f1ab4bbae, type: 3}
+    FullBoxes:
+    - {fileID: -1825077359, guid: 06cabfade30d2d64db20346be2fb6881, type: 3}
+    - {fileID: -1159346593, guid: 93e236146048f0d41aeea8e010507f5e, type: 3}
+    - {fileID: 1455962746, guid: 7da8416931681f7419198c2f1ab4bbae, type: 3}
+    Fillings0:
+    - {fileID: 1109692315, guid: 5b1f7153f7901374ca1b346f0b45b5f7, type: 3}
+    - {fileID: 1036987879, guid: 5b1f7153f7901374ca1b346f0b45b5f7, type: 3}
+    - {fileID: 669738536, guid: 5b1f7153f7901374ca1b346f0b45b5f7, type: 3}
+    - {fileID: -1850851304, guid: 5b1f7153f7901374ca1b346f0b45b5f7, type: 3}
+    Fillings1:
+    - {fileID: 1519396684, guid: 7d7e28a132bb8414c9057f95c10ab56c, type: 3}
+    - {fileID: -1680843355, guid: 7d7e28a132bb8414c9057f95c10ab56c, type: 3}
+    - {fileID: -602208716, guid: 7d7e28a132bb8414c9057f95c10ab56c, type: 3}
+    - {fileID: -1195081914, guid: 7d7e28a132bb8414c9057f95c10ab56c, type: 3}
+    Fillings2:
+    - {fileID: -2017572798, guid: cbdb9cdae80d189408ffcd8d7ce0f821, type: 3}
+    - {fileID: -475140220, guid: cbdb9cdae80d189408ffcd8d7ce0f821, type: 3}
+    - {fileID: -1647615543, guid: cbdb9cdae80d189408ffcd8d7ce0f821, type: 3}
+    - {fileID: -143437375, guid: cbdb9cdae80d189408ffcd8d7ce0f821, type: 3}
